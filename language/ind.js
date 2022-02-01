@@ -205,7 +205,7 @@ ${bi}${prefix}listonline
 ${bi}${prefix}grupinfo
 ${bu}
 
-*Support Nekopoi.care*
+*Support Indomaret.care*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -272,7 +272,7 @@ ${bi}${prefix}getbio
 ${bi}${prefix}hbd
 ${bu}
 
-*Support Nekopoi.care*
+*Support Indomaret.care*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -329,7 +329,7 @@ ${bi}${prefix}bagaimanakah
 ${bi}${prefix}apakah
 ${bu}
 
-*Support Nekopoi.care*
+*Support Indomaret.care*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -371,7 +371,7 @@ ${bi}${prefix}mulung [otw]
 ${bi}${prefix}judi [otw]
 ${bi}${prefix}judi2 [otw]
 ${bi}${prefix}level [otw]
-*Support Nekopoi.care*
+*Support Indomaret.care*
 ${bu}
 
 *Official Bot By @${numbernye.split("@")[0]}*
@@ -721,7 +721,7 @@ Kebijakan Privasi
 -Siegrin
 
 Peraturan: 19 Juli 2021
-*Support Nekopoi.care*
+*Support Indomaret.care*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -729,16 +729,18 @@ exports.gcofficial = (player, hahh) => {
 	return `Silahkan join Group Official Luc Bot,sekedar senang-senang dan mengetahui Update terbaru Dari Bot
 
 Group 1
-https://chat.whatsapp.com/ItWuInyvxDs1mDHUVV5xM8
+https://chat.whatsapp.com/E4ghRryC8qcD81JnbyBTjj
+
 
 Group 2
 https://chat.whatsapp.com/CBGSIU5bKPi8NFPG532ZUE
+
 
 Group 3
 https://chat.whatsapp.com/CXPjrQPrn6mCU8EOnhvoSG
 
 *Jika ada informasi penting mengenai bot atau semacamnya kemungkinan akan di share di group.*
-*Support Nekopoi.care*
+*Support Indomaret.care*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -751,7 +753,7 @@ ${bi}1 Bulan:Rp.25.000
 ${bu}
 
 Kalau mau sewa silahkan chat Owner Bot
-*Support Nekopoi.care*
+*Support Indomaret.care*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
