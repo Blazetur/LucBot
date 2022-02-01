@@ -51,7 +51,7 @@ ${bi}Ori
 ${bi}Katalog
 ${bu}
 
-*Support Nekopoi.care*
+*Support Indomaret.care*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -61,7 +61,7 @@ ${bi}${prefix}start
 ${bi}${prefix}next
 ${bi}${prefix}skip
 ${bu}
-*Support Nekopoi.care*
+*Support Indomaret.care*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -82,7 +82,7 @@ ${bi}${prefix}emoji
 ${bi}${prefix}brainly
 ${bu}
 
-*Support Nekopoi.care*
+*Support Indomaret.care*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -143,7 +143,7 @@ ${bi}${prefix}listcmd
 ${bi}${prefix}listrespon
 ${bu}
 
-*Support Nekopoi.care*
+*Support Indomaret.care*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -172,7 +172,7 @@ ${bi}${prefix}listvideo
 ${bi}${prefix}listimage
 ${bu}
 
-*Support Nekopoi.care*
+*Support Indomaret.care*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -261,7 +261,7 @@ ${bi}${prefix}tempovid
 ${bi}${prefix}detikvideo
 ${bu}
 
-*Support Nekopoi.care*
+*Support Indomaret.care*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -351,7 +351,7 @@ ${bi}${prefix}hentai
 ${bi}${prefix}blowjob
 ${bu}
 
-*Support Nekopoi.care*
+*Support Indomaret.care*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
